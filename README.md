@@ -16,7 +16,7 @@ based on security best practices.
 
 Clone the repository:
 
-git clone https://github.com/nain_0003/password-strength-checker-gui.git
+git clone https://github.com/nain0003/password_checker_gui.py
 
 Run the file:
 
